@@ -11,7 +11,7 @@
   <img src="docs/screenshots/gameplay.webp" width="800" alt="プレイ映像：Clawd が投げたコインに押されて、手前のふちにいたフェルトの Clawd が受け皿へ落ち、GET! が出る">
 </p>
 
-<p align="center"><b><a href="https://tanuu5.github.io/coin-lagoon/">▶ ブラウザで今すぐ遊ぶ</a></b>（インストール不要）</p>
+<p align="center"><b><a href="https://tanuu5.github.io/coin-lagoon/">▶ ブラウザで今すぐ遊ぶ</a></b>（PC・スマホ対応、インストール不要）</p>
 
 **Claude Code × Claude Opus 5.5（MAX）** で作りました。
 
@@ -113,7 +113,7 @@ npm run build    # dist/ に公開用のファイル
 
 ## English
 
-**▶ Play in your browser: https://tanuu5.github.io/coin-lagoon/**
+**▶ Play in your browser (PC and smartphones, no install): https://tanuu5.github.io/coin-lagoon/**
 
 A 3D coin pusher on a tropical beach, made with **Claude Code × Claude Opus 5.5 (MAX)**. A big felt Clawd rides a surfboard along the back wall and tosses coins for you; push the felt Clawd prizes off the front edge to fill your collection book. Switch the language to English in Settings (or open the page with `?lang=en`).
 
